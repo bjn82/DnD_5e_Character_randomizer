@@ -17,9 +17,10 @@ Current goals for this project:
 
 Once the current goals have been met, I would like to implement some of the classes, races, and other features included in other modules of the game. Additionally, I'd like to explore writing a function that would create a character at a given level, or of a given race or a given class.
 
-A stretch goal that I have would be to somehow put it into a pdf or a document to make it more palatable.
+A stretch goal that I have would be to somehow put it into a pdf or a document to make it more palatable. Or to make a flask app of it. 
+
+Once I'm mostly finished with this, I'm going to transfer it from a jupyter notebook into python scripts. I work well in a jupyter notebook so that's why I'm working in it. Though Spyder may help with this. 
 
 This is a work in progress. Currently, the code is the most comlplete for Elf, Human, or Dwarf as a Fighter with the Noble background.
-
 
 I'm also doing this to learn a bit more about the other classes and races. If anything could be improved, please let me know. Thank you!
