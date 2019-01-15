@@ -4,6 +4,7 @@ Today's progress
 * I toyed around with a weapon selection function, but I'm not pleased with it. 
 * Finished equipment for ranger, and also included the penalty for not meeting strength requirement for chainmail, as well as made it so that it wouldn't be picked if a fighter doesn't have the right strength. 
 * Added half-elf to races. 
+* added Urchin to backgrounds
 
 Most of today was spent working on the weapon selection function, which didn't turn out as I want. the code is included, but it's too messy. Maybe tomorrow I'll get to redo it. 
 
